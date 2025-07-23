@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Saheli!
-- 🔭 I’m currently working on LLM Inferencing
-- 👯 I’m looking to collaborate on challenging research ideas
-- 📫 How to reach me: sahelib25@gmail.com
-- ⚡ Fun fact: I can read text upside down faster!
+- 🔭 I’m currently working on **LLM Inferencing** ⚙️
+- 👯 I’m looking to collaborate on **challenging research ideas** 🔬📚
+- 📫 How to reach me: **sahelib25@gmail.com** 📧
+- ⚡ Fun fact: I can read text upside down faster! 🙃🧠
 
 ## 🛠️ Technologies & Tools
 <!-- Languages -->
